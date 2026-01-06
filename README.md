@@ -1,37 +1,84 @@
-# Hi 👋, I'm Indian coder
+<!-- ===================== -->
+<!--  Shubh Varshney README -->
+<!-- ===================== -->
 
-### Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=500&color=00A9FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Shubh+Varshney!;Java+%26+Web dev+Innovator;Crafting+Impactful+Digital+Experiences" alt="Typing SVG"/>
 
-- 🔭 I'm currently working on **Next.js **
-
-- 🌱 I'm currently learning **Machine learning**
-
-- 👯 I'm looking to collaborate on **Motia-ai**
-
-- 🤝 I'm looking for help with **learning RAGs**
-
-- 💬 Ask me about **React.js, Next.js **
-
-- 📫 How to reach me **varshneyshubhv@gmail.com**
-
-- ⚡ Fun fact **I think I am Batman**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1KZuydM3xUlMVuITB8P-iudiG_ed_nra4/view?usp=drive_link](https://drive.google.com/file/d/1KZuydM3xUlMVuITB8P-iudiG_ed_nra4/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/brainRottedCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brainRottedCoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubh-varshney-25b897314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubh-varshney-25b897314/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shubh_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shubh_codes" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/Shubh_Varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Shubh_Varshney" height="30" width="40" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-0ea5e9?style=for-the-badge&logo=codeigniter&logoColor=white" alt="status" />
+  <img src="https://img.shields.io/badge/Vibe-✨%20Creative-FFD700?style=for-the-badge" alt="vibe" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brainRottedCoder&show_icons=true&locale=en&layout=compact" alt="brainRottedCoder" /></p>
+<p align="center">
+  <a href="https://Shubh-varshney.vercel.app/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-1e293b?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubh-varshney-25b897314/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/brainRottedCoder" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-See%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainRottedCoder&show_icons=true&locale=en" alt="brainRottedCoder" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainRottedCoder&" alt="brainRottedCoder" /></p>
+## 🚀 About Me
 
+I'm a passionate **Full Stack Developer** with a knack for building **Web-first experiences**, **developer tools**, and **productivity solutions**. I blend sleek React UIs with robust Node.js backends, fueled by curiosity in **Devops** and **AI**.
+
+- 🔭 **Working on**: Resume Builder, Browser Extensions, CLI Tools  
+- 🎯 **Goal**: Evolve into a top-tier SDE and product innovator  
+- 🌱 **Learning**: AI-driven apps and secure scaling solutions  
+- ⚡ **Loves**: Bikes 🏍️, nature 🌳, fast code 🚀, and clean UX 🎨
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />&nbsp; -->
+  <!-- <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />&nbsp; -->
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />&nbsp;
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brainRottedCoder&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brainRottedCoder&theme=dracula&hide_border=true" height="160"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brainRottedCoder&theme=dracula&hide_border=true&area=true" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=brainRottedCoder&style=flat-square&color=00A9FF" alt="profile views" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://shubh-varshney.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="mailto:shubhvars2006@gmail.com">✉️ Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/shubh-varshney-25b897314/">🔗 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/brainRottedCoder">💻 GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Star my repos if you like my work!</b> <br/>
+  Always coding, learning, and leveling up! 🚀
+</p>
