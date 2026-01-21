@@ -1,4 +1,4 @@
-# Hi 👋, I'm Indian coder
+# Hi 👋, I'm Shubh Varshney
 
 ### Developer
 
