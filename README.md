@@ -10,8 +10,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=brainRottedCoder&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/brainRottedCoder&label=Followers&style=for-the-badge&color=238636" alt="Followers"/>
-  &nbsp;
   <a href="https://shubh-varshney.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-shubh--varshney.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
