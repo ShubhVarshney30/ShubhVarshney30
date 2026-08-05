@@ -4,13 +4,17 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Shubh+Varshney+%F0%9F%91%8B;Open-source+contributor+%7C+Builder;Shipping+into+YC+codebases;AI+%C2%B7+Systems+%C2%B7+Developer+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Shubh+Varshney+%F0%9F%91%8B;B.Tech+CSE+%40+AMU+%7C+SWE+Intern;YC+Startup+School+India+'26;Open-source+%C2%B7+AI+%C2%B7+Systems" alt="Typing SVG" />
 
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=brainRottedCoder&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/brainRottedCoder?label=Followers&style=for-the-badge&color=238636" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/brainRottedCoder&label=Followers&style=for-the-badge&color=238636" alt="Followers"/>
+  &nbsp;
+  <a href="https://shubh-varshney.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-shubh--varshney.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   &nbsp;
   <a href="mailto:shubhvars2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-shubhvars2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -22,23 +26,41 @@
 
 ### About me
 
-I'm **Shubh Varshney** (`brainRottedCoder`) — a builder who contributes upstream to open-source products, especially **YC-backed developer tools**. I like fixing real production bugs (Windows tray panics, CLI cold starts), shipping integrations, and learning systems by reading and changing the code that ships.
+I'm **Shubh Varshney** (`brainRottedCoder`) — B.Tech CSE at **Aligarh Muslim University** (CPI **8.0/10**) and a **Software Engineering Intern at Temflo**, shipping SCADA modules, enterprise dashboards, and automation that cut team debugging time.
 
-- Currently deep in **AI agents**, **local-first tooling**, and **developer infrastructure**
-- Actively contributing to **YC open-source** companies and adjacent agent stacks
-- Happy to collaborate on impactful OSS — open an issue or ping me
+I contribute upstream to open-source products — especially **YC-backed developer tools** — fixing production bugs, speeding up CLIs, and shipping integrations that people actually use.
+
+- **SWE Intern @ Temflo** — Python SCADA, REST APIs, Node.js monitoring, Pytest
+- **YC Startup School India 2026** invitee
+- Open to collaborating on **AI agents**, **developer tools**, and **systems** OSS
 
 ---
 
-### Contributions to YC & open-source companies
+### Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YC%20Startup%20School%20India-2026-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="YC Startup School"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Raptors%20Hackathon%20(UK)-1st%20%C3%974%20%C2%B7%20%244000-EAB308?style=for-the-badge" alt="Raptors"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AMULate%20Hackathon-1st%20Place-238636?style=for-the-badge" alt="AMULate"/>
+</p>
+
+- **10+ merged PRs** across YC-backed / open-source agent stacks
+- **500+** DSA problems across LeetCode & Codeforces
+- Led **15+ member** Quant & Crypto team at **FAAST**, AMU
+- Published **[project-healthy](https://github.com/brainRottedCoder/project-healthy)** to npm — **900+ downloads**
+
+---
+
+### Contributions to open source
 
 <div align="center">
 
-| Company / Project | Batch / Status | What I shipped |
+| Project | Org | What I shipped |
 | :--- | :--- | :--- |
 | **[screenpipe](https://github.com/screenpipe/screenpipe)** | **YC S26** | Merged Windows tray crash fix · Msty MCP integration docs · more PRs in flight (audio, meetings, skills) |
-| **[world-model-optimizer](https://github.com/experientiallabs/world-model-optimizer)** | Open agent infra | Merged CLI startup overhaul — cut warm `--help` / light commands from ~4s → ~1.1s via deferred imports |
-| **[Coral](https://github.com/withcoral/coral)** | Agent data layer | Native Windows support proposal (build, install, CI, docs) |
+| **[world-model-optimizer](https://github.com/experientiallabs/world-model-optimizer)** | [Experiential Labs](https://experientiallabs.ai) | Merged CLI startup overhaul — warm `--help` / light commands ~4s → ~1.1s via deferred imports |
 
 </div>
 
@@ -61,10 +83,19 @@ I'm **Shubh Varshney** (`brainRottedCoder`) — a builder who contributes upstre
     <img src="https://img.shields.io/badge/screenpipe%20(YC%20S26)-contributor-orange?style=for-the-badge&logo=ycombinator&logoColor=white" alt="screenpipe contributor"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Merged%20PRs-3+-238636?style=for-the-badge&logo=github" alt="Merged PRs"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Public%20commits-360+-58A6FF?style=for-the-badge&logo=git" alt="Commits"/>
+  <a href="https://github.com/experientiallabs/world-model-optimizer/pulls?q=author%3AbrainRottedCoder">
+    <img src="https://img.shields.io/badge/world--model--optimizer-contributor-58A6FF?style=for-the-badge&logo=github" alt="WMO contributor"/>
+  </a>
 </p>
+
+---
+
+### Experience
+
+**Software Engineering Intern** — *Temflo Private Limited* (Remote) · Feb 2026 – Present  
+- Built & tested **5+ SCADA modules** in Python — ~**10%** lower downtime / error rate via better fault detection  
+- Shipped enterprise dashboards used by **100+** users; tightened frontend–backend REST integrations  
+- Pytest coverage + Node.js monitoring automation — saved ~**10 hrs/week** of manual debugging
 
 ---
 
@@ -97,20 +128,20 @@ I'm **Shubh Varshney** (`brainRottedCoder`) — a builder who contributes upstre
 
 ### Featured work
 
-<div align="center">
-
-| Project | What it is |
-| :--- | :--- |
-| **[project-healthy](https://github.com/brainRottedCoder/project-healthy)** | AI-powered health score for repos — scan, fix, review, and track quality from the terminal |
-| **[AI-chain-CLI](https://github.com/brainRottedCoder/AI-chain-CLI)** | Lean issue tracker CLI for AI-assisted development with cross-session context |
-| **[Re-call](https://github.com/brainRottedCoder/Re-call)** | Personal knowledge capture engine — save, transcribe, summarize, and search anything |
-| **[faastamu](https://github.com/brainRottedCoder/faastamu)** | AMU FAAST club website |
-
-</div>
+| Project | Stack | Impact |
+| :--- | :--- | :--- |
+| **[project-healthy](https://github.com/brainRottedCoder/project-healthy)** | TypeScript · npm · CI | AI CLI for repo health — **900+ npm downloads**; audits security / quality / CI / flaky tests in minutes instead of hours |
+| **[AI-Native ERP](https://github.com/vedantgpt/Amulate-vedant-shubh)** | Next.js · LangChain · Firebase | Hugo AI agent for NL → CRUD + supplier email automation; real-time inventory ERP (**1st @ AMULate**) |
+| **[AI-chain-CLI](https://github.com/brainRottedCoder/AI-chain-CLI)** | CLI · AI workflows | Lean issue tracker for AI-assisted development with cross-session context |
+| **[faastamu](https://github.com/brainRottedCoder/faastamu)** | JavaScript | AMU FAAST club website |
 
 <p align="center">
   <a href="https://github.com/brainRottedCoder?tab=repositories&type=source">
     <img src="https://img.shields.io/badge/Explore_all_repos-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
+  </a>
+  &nbsp;
+  <a href="https://shubh-varshney.vercel.app/">
+    <img src="https://img.shields.io/badge/Full_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -118,8 +149,18 @@ I'm **Shubh Varshney** (`brainRottedCoder`) — a builder who contributes upstre
 
 ### Stack I reach for
 
+**Languages** · C++ · Java · JavaScript · TypeScript · Python · Rust  
+
+**Frontend** · Next.js · React · Tailwind · GSAP · React Flow  
+
+**Backend & data** · Node.js · Express · REST · MongoDB · PostgreSQL · Firebase · Supabase  
+
+**AI** · LangChain · RAG · Vector DBs · LLM integrations  
+
+**Cloud & DevOps** · Docker · Azure · Vercel · Cloudflare Workers · CI/CD  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,tailwind,docker,git,github,linux,vscode,postgres,sqlite,aws" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,rust,react,nextjs,nodejs,tailwind,mongodb,postgres,docker,azure,vercel,git" alt="Skills"/>
 </p>
 
 ---
@@ -127,18 +168,20 @@ I'm **Shubh Varshney** (`brainRottedCoder`) — a builder who contributes upstre
 ### Connect
 
 <p align="center">
+  <a href="https://shubh-varshney.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
   <a href="mailto:shubhvars2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;
   <a href="https://github.com/brainRottedCoder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/shubh-varshney"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shubh-varshney-25b897314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-  **Open to collaborating on YC / agent / systems OSS.**  
-  If you’re building something ambitious and open — let’s talk.
+  **Open to internships, collaborations, and YC / agent / systems OSS.**  
+  Building something ambitious? [Reach out](mailto:shubhvars2006@gmail.com).
 
 </div>
