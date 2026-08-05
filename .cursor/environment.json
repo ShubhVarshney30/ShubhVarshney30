@@ -7,5 +7,10 @@
       "command": "npm run preview"
     }
   ],
-  "ports": [6419]
+  "ports": [
+    {
+      "name": "readme-preview",
+      "port": 6419
+    }
+  ]
 }
