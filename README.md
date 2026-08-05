@@ -26,7 +26,7 @@
 
 ### About me
 
-I'm **Shubh Varshney** (`brainRottedCoder`) — B.Tech CSE at **Aligarh Muslim University** (CPI **8.0/10**) and a **Software Engineering Intern at Temflo**, shipping SCADA modules, enterprise dashboards, and automation that cut team debugging time.
+I'm **Shubh Varshney** (`brainRottedCoder`) — B.Tech CSE at **Aligarh Muslim University**  and a **Software Engineering Intern at Temflo**, shipping SCADA modules, enterprise dashboards, and automation that cut team debugging time.
 
 I contribute upstream to open-source products — especially **YC-backed developer tools** — fixing production bugs, speeding up CLIs, and shipping integrations that people actually use.
 
