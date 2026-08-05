@@ -1,0 +1,17 @@
+{
+  // GitHub profile READMEs intentionally use conventions that a few default
+  // markdownlint rules dislike, so relax only those while keeping the rest.
+  "config": {
+    "default": true,
+    // Profile READMEs commonly open with an h2 greeting rather than an h1.
+    "MD041": false,
+    // Prose lines are free-form; do not enforce a max line length.
+    "MD013": false,
+    // Emoji shortcodes / decorative emphasis are expected in profile content.
+    "MD033": false,
+    // A contact email listed as plain text is a normal profile convention.
+    "MD034": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "dist"]
+}

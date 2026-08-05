@@ -1,0 +1,17 @@
+{
+  "name": "brainrottedcoder-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for @brainRottedCoder with local linting and a GitHub-styled preview.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "preview": "node scripts/preview.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.8.1",
+    "markdown-it": "^14.1.0",
+    "markdownlint-cli2": "^0.18.1"
+  }
+}
