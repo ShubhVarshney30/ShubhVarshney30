@@ -39,7 +39,7 @@ I contribute upstream to open-source products — especially **YC-backed develop
 <p align="center">
   <img src="https://img.shields.io/badge/YC%20Startup%20School%20India-2026-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="YC Startup School"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Raptors%20Hackathon%20(UK)-1st%20%C3%974%20%C2%B7%20%244000-EAB308?style=for-the-badge" alt="Raptors"/>
+  <img src="https://img.shields.io/badge/Raptors%20Hackathon%20(UK)-1st%20%C3%972%20%C2%B7%20%242000-EAB308?style=for-the-badge" alt="Raptors"/>
   &nbsp;
   <img src="https://img.shields.io/badge/AMULate%20Hackathon-1st%20Place-238636?style=for-the-badge" alt="AMULate"/>
 </p>
