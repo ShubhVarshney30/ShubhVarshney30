@@ -1,0 +1,16 @@
+{
+  "name": "brainRottedCoder profile",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [
+    {
+      "name": "readme-preview",
+      "port": 6419
+    }
+  ]
+}
